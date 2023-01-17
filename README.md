@@ -36,12 +36,12 @@ Install Mydiscord Bot with npm
 
 ```bash
   npm i 
-  npm run dev || echo 'bot started'
+  npm run dev || echo 'bot started and thanks for using'
 ```
 
-Install Mydiscord bot with Yarn
+Install Mydiscord bot with Yarn [FASTEST💨 INSTALL]
 ```bash
-    npm i yarn
+    npm i yarn -g
     yarn install
     yarn run dev
 ```    
